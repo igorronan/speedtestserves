@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
 <servers>
-<server url="https://spetstbhe01.timbrasil.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="TIM Brasil" id="12564"  url2="spetstbhe01.timbrasil.com.br:8080" />
+<server url="http://teste.atcmultimidia.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="American Tower Brasil" id="30695"  url2="teste.atcmultimidia.com.br:8080" />
 </servers>
 </settings>
-
-
