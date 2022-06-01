@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-<server url="http://speedtest.internetrap10.com.br.prod.hosts.ooklaserver.net:8080" lat="-19.9930" lon="-43.8486" name="Nova Lima" country="Brazil" cc="BR" sponsor="Internet Rap10" id="34563"  url2="http://speedtest.internetrap10.com.br:8080/speedtest/upload.php" />
+<server url="http://speedtest.internetrap10.com.br:8080/speedtest/upload.php" lat="-19.9930" lon="-43.8486" name="Nova Lima" country="Brazil" cc="BR" sponsor="Internet Rap10" id="34563"  url2="http://speedtest.internetrap10.com.br:8080/speedtest/upload.php" />
 <server url="http://speedtest.pop-mg.rnp.br/speedtest/upload.php" lat="-19.8917" lon="-43.9478" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="PoP-MG/RNP" id="3005"  url2="http://speedtest2.pop-mg.rnp.br/speedtest/upload.php" />
 <server url="https://spetstbhe01.timbrasil.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="TIM Brasil" id="12564" host="spetstbhe01.timbrasil.com.br:8080"/>
 <server url="http://speedtest.realdata.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="RealData Telecom" id="43098" host="speedtest.realdata.com.br:8080"/>
