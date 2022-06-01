@@ -2,5 +2,8 @@
 <settings>
 <servers>
 <server url="http://teste.atcmultimidia.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="American Tower Brasil" id="30695"  url2="teste.atcmultimidia.com.br:8080" />
-</servers>
+<server url="http://speedo.eltele.no/speedtest/upload.php" lat="69.9403" lon="23.3106" name="Alta" country="Norway" cc="NO" sponsor="Eltele AS" id="3433"  url2="http://speedtest.eltele.no/speedtest/upload.php" />
+<server url="http://speedtest.pronea.no/speedtest/upload.php" lat="69.6828" lon="18.9428" name="Tromso" country="Norway" cc="NO" sponsor="Pronea AS" id="1327"  url2="http://62.63.63.238/speedtest/upload.php" />
+<server url="http://speedtest.mmsn.ru/speedtest/upload.php" lat="68.9543" lon="33.1076" name="Murmansk" country="Russian Federation" cc="RU" sponsor="JSC M2C" id="1521"  />
+  </servers>
 </settings>
