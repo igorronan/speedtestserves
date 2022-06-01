@@ -1,6 +1,16 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
- <servers>
-<server url="http://teste.atcmultimidia.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="American Tower Brasil" id="30695"  url2="teste.atcmultimidia.com.br:8080" />
+<servers>
+<server url="https://spetstbhe01.timbrasil.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="TIM Brasil" id="12564"  url2="spetstbhe01.timbrasil.com.br:8080" />
+<server url="http://speedtestmg.oi.net.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Oi" id="38412"  url2="speedtestmg.oi.net.br:8080" />
+<server url="http://speedtest.uneinternet.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Une Internet" id="29604"  url2="speedtest.uneinternet.com.br.prod.hosts.ooklaserver.net:8080" />
+<server url="http://speedtest.blfibra.net.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="BL Fibra 100% Fibra" id="42320"  url2="speedtest.blfibra.net.br.prod.hosts.ooklaserver.net:8080" />
+<server url="http://velocidade.blinktelecom.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Blink Telecom" id="33404"  url2="velocidade.blinktelecom.com.br.prod.hosts.ooklaserver.net:8080" />
+<server url="http://spd31.claro.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Claro Movel CEM" id="32537"  url2="spd31.claro.com.br:8080" />
+<server url="http://teste.navegueazul.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Azul Telecom" id="44397"  url2="teste.navegueazul.com.br:8080" />
+<server url="http://bhe.testepower.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="VIVO BHE" id="21540"  url2="bhe.testepower.com.br.prod.hosts.ooklaserver.net:8080" />
 </servers>
 </settings>
+
+
