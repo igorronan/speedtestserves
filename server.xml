@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
-<server url="http://speedtest.internetrap10.com.br:8080/speedtest/upload.php" lat="-19.9930" lon="-43.8486" name="Nova Lima" country="Brazil" cc="BR" sponsor="Internet Rap10" id="34563"  url2="http://speedtest.internetrap10.com.br:8080/speedtest/upload.php" />
-<server url="http://speedtest.pop-mg.rnp.br/speedtest/upload.php" lat="-19.8917" lon="-43.9478" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="PoP-MG/RNP" id="3005"  url2="http://speedtest2.pop-mg.rnp.br/speedtest/upload.php" />
-<server url="https://spetstbhe01.timbrasil.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="TIM Brasil" id="12564" host="spetstbhe01.timbrasil.com.br:8080"/>
-<server url="http://speedtest.realdata.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="RealData Telecom" id="43098" host="speedtest.realdata.com.br:8080"/>
-<server url="http://speedtest.noctel.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Noctel Telecom e Redes Ltda" id="43279" host="speedtest.noctel.com.br:8080"/>
-<server url="http://spd31.claro.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Claro Móvel CEM" id="32537" host="spd31.claro.com.br:8080"/>
-<server url="http://teste.netfluxtelecom.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="NetFlux Internet" id="38897" host="teste.netfluxtelecom.com.br:8080"/>
-<server url="https://nocjbs.ravisystems.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Nete Livre" id="40547" host="nocjbs.ravisystems.com.br:8080"/>
-<server url="http://speed.gnstelecom.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Gns Telecom" id="33332" host="speed.gnstelecom.com.br:8080"/>
-<server url="http://velocimetro-bhz.virtua.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Claro net vírtua" id="22406" host="velocimetro-bhz.virtua.com.br:8080"/>
-<server url="https://elysiumtelecom.brsserver.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="Elysium Telecom" id="50472" host="elysiumtelecom.brsserver.com.br:8080"/>
-<server url="http://speedtest.seventelecommg.com.br:8080/speedtest/upload.php" lat="-19.9385" lon="-44.0518" name="Contagem" country="Brazil" cc="BR" sponsor="Seven Telecom" id="45047" host="speedtest.seventelecommg.com.br:8080"/>
+<server url="http://teste.atcmultimidia.com.br:8080/speedtest/upload.php" lat="-19.9167" lon="-43.9333" name="Belo Horizonte" country="Brazil" cc="BR" sponsor="American Tower Brasil" id="30695"  url2="http://teste.atcmultimidia.com.br:8080/speedtest/upload.php" />
 </servers>
 </settings>
